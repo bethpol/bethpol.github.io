@@ -8,10 +8,24 @@
         <meta name="author" content="name">
         <meta name="description" content="Beth's Personal Portfolio Site">
         <meta name="keywords" content="keywords,here">
+        <script src="node_modules/particles.js/particles.js"></script>
+        <style>
+            #particles-js {
+                width: 200px;
+                height: 200px;
+                background-color: blue;
+            }
+        </style>
     </head>
     <body>
         <h1>Beth Polito</h1>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
         <div id="particles-js"></div>
+        <button id="particle-button">Start</button>
+        <script>
+            $("#particle-button").click(() => {
+                particlesJS.load("particles-js", "particles.json");
+            });
+        </script>
     </body>
 </html>
