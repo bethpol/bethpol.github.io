@@ -1,2 +1,2 @@
 # bethpol.github.io
-My Personal Site
+This repository is for a personal site, which I'm excited to make so that I can learn more about github pages!!!
