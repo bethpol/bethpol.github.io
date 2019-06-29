@@ -4,3 +4,11 @@ www.bethpol.github.io
 
 # how to edit
 I think you have to install the npm packages. I'm still a little fuzzy on all that, tbh
+
+# color scheme
+
+pink.........#FF99C8
+yellow.......#FCF6BD
+green........#D0F4DE
+purple.......#E4C1F9
+blue.........#A9DEF9
