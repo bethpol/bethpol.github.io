@@ -1,0 +1,91 @@
+/*
+blue       #48639C
+seafoam    #B8FFF4
+indigo     #4C4C9D
+purple     #712F79
+lavender   #976391
+*/
+
+body {
+    background-color: #4C4C9D;
+}
+
+::selection {
+    color: white;
+    background-color: black;
+}
+
+#title {
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 1px 1px #B8FFF4;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+
+#grid-holder {
+    font-family: "Poppins", sans-serif;
+    width: 95%;
+    position: absolute;
+    top: 200px;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-gap: 20px;
+}
+
+.topic-box {
+    font-family: "Poppins", sans-serif;
+    background-image: linear-gradient(to bottom right, white, #B8FFF4);
+    padding: 20px;
+    padding-top: 10px;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #4C4C9D;
+}
+
+ul {
+    color: #4C4C9D;
+}
+
+.project {
+    width: 90%;
+    position: relative;
+    left: 5%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+#projects {
+    position: absolute;
+    top: 500px;
+    width: 94%;
+    margin-bottom: 30px;
+}
+
+#mega-container {
+    padding: 15px;
+}
+
+i {
+    margin-left: 20px;
+    color: #4C4C9D;
+}
+
+
+#white {
+    color: white;
+}
+
+#info {
+    grid-column: 2 / span 2;
+}
+
+p {
+    color: #4C4C9D;
+}

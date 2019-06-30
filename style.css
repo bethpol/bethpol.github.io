@@ -10,6 +10,11 @@ body {
     background-color: #4C4C9D;
 }
 
+::selection {
+    color: white;
+    background-color: black;
+}
+
 #particles-js {
     width: 100%;
     height: 110%;
@@ -66,7 +71,7 @@ a:visited {
     color: white;
 }
 
-button:hover {
+#email-me:hover {
     font-family: "Poppins", sans-serif;
     font-size: 20px;
     background-color: #B8FFF4;
@@ -76,13 +81,13 @@ button:hover {
     cursor: pointer;
 }
 
-button {
+#email-me {
     font-family: "Poppins", sans-serif;
     font-size: 20px;
     background-color: white;
     border: none;
     padding: 15px;
-    border-radius: 15px;
+    border-radius: 5px;
     color: #4C4C9D;
     cursor: pointer;
     transition: background 0.1s ease-in-out;
@@ -93,3 +98,46 @@ button {
     padding-left: 10px;
 }
 
+#grid-holder {
+    margin-top: 50px;
+    display: grid;
+    color: #4C4C9D;
+    grid-template-columns: 33% 33% 33%;
+    grid-column-gap: 20px;
+}
+
+.topic {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: #4C4C9D;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #4C4C9D;
+}
+
+.topic > button {
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    background-image: linear-gradient(to bottom right, white, #B8FFF4);
+    color: #4C4C9D;
+    width: 100%;
+    height: 100%;
+    border: 3px solid #4C4C9D;
+    padding: 50px;
+    border-radius: 5px;
+    transition: border 0.5s;
+}
+
+.topic > button:hover {
+    border: 3px solid #B8FFF4;
+}
+
+#white {
+    color: white;
+}
