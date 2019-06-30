@@ -6,6 +6,3 @@ $(document).ready(() => {
       });
 });
 
-$("#email-me").onclick(() => {
-    window.location.href = "mailto:bpolito001@gmail.com";
-});
