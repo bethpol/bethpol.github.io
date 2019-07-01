@@ -150,6 +150,10 @@ img {
 @media only screen and (max-width: 920px) {
     #name-title {
         font-size: 80px;
+        left: 5%;
+    }
+    ul {
+        left: 5%;
     }
     #fill-text {
         margin-left: -30px;
