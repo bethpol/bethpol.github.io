@@ -129,3 +129,8 @@ a {
         grid-column: 1 / span 1;
     }
 }
+
+#secret {
+    text-decoration: none;
+    cursor: initial;
+}
