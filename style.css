@@ -1,0 +1,26 @@
+body {
+    background-color: #faf0e6;
+    font-family: "Marcellus";
+}
+
+#info-container {
+    color: #051428;
+    background-color: #ffffff;
+    border-left: 10px solid #059033;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 3em;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+p {
+    line-height: 200%;
+}
+
+h3 {
+    line-height: 300%;
+}
