@@ -6,7 +6,7 @@ body {
 #info-container {
     color: #051428;
     background-color: #ffffff;
-    border-left: 10px solid #059033;
+    border-left: 12px solid #64AA46;
     margin-left: 18%;
     margin-right: 18%;
     margin-top: 3em;
@@ -15,10 +15,11 @@ body {
 
 h1 {
     font-size: 4em;
+    margin-bottom: 15px;
 }
 
 p {
-    line-height: 200%;
+    line-height: 150%;
 }
 
 h3 {
@@ -26,5 +27,30 @@ h3 {
 }
 
 a {
-    color: #059033;
+    color: #64AA46;
+}
+
+i {
+    margin-right: 20px;
+}
+
+button {
+    font-family: "Marcellus";
+    background-color: white;
+    color: #64AA46;
+    border: none;
+    border-bottom: 6px solid white;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: 0.3s;
+}
+
+button:hover {
+    border-bottom: 6px solid #faf0e6;
+}
+
+h5 {
+    color:#64AA46;
+    font-size: 1em;
 }
