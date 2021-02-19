@@ -1,6 +1,6 @@
 body {
     background-color: #faf0e6;
-    font-family: "Roboto";
+    font-family: "Marcellus";
 }
 
 #info-container {
@@ -15,8 +15,6 @@ body {
 
 h1 {
     font-size: 4em;
-    font-weight: normal;
-    font-family: "Oi";
     margin-bottom: 15px;
 }
 
