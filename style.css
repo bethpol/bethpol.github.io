@@ -1,59 +1,78 @@
-/* Pink Color #ffe9ec */
-
 body {
-    background-color: #ffe9ec;
+    background-color: #faf0e6;
+    font-family: "Gotu";
 }
 
-#main-container {
-    margin: 8%;
-    margin-bottom: 60px;
-    background-color: white;
-    padding: 30px;
-    box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
-    text-align: center;
-    border-radius: 30px;
+#info-container {
+    color: #051428;
+    background-color: #ffffff;
+    border-left: 12px solid #ff8da1;
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 3em;
+    padding: 50px;
 }
-
-
 
 h1 {
-    font-family: 'Gotu', sans-serif;
     font-size: 4em;
-    color: blue;
+    margin-bottom: 15px;
 }
 
 p {
-    font-family: 'Lato', sans-serif;
+    line-height: 150%;
+    font-family: "Lato";
 }
 
-#container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: stretch;
+h3 {
+    line-height: 300%;
+}
+
+a {
+    color: #ff8da1;
+    text-decoration: none; 
+}
+
+i {
+    margin-right: 20px;
 }
 
 button {
-    margin-left: 2em;
-    margin-right: 1em;
-    padding: 30px;
-    border-radius: 30%;
-    border: 0px;
-    font-family: 'Gotu', sans-serif;
-    font-size: 1em;
+    font-family: "Gotu";
     background-color: white;
-    color: blue;
+    color: #ff8da1;
+    border: none;
+    border-bottom: 6px solid white;
+    font-size: 1.2em;
+    cursor: pointer;
+    margin-right: 20px;
+    transition: 0.3s;
 }
 
-#left-button {
-    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px;
+button:hover {
+    border-bottom: 6px solid #faf0e6;
 }
 
-#center-button {
-    box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px;
+button:active {
+    border-bottom: 6px solid #ff8da1;
 }
 
-#right-button {
-    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px;
+h5 {
+    color:#ff8da1;
+    font-size: 1em;
+}
+
+
+
+h6 {
+    padding: 0px;
+    margin: 0px;
+    font-size: 1.2em;
+}
+
+.indented {
+    padding-left: 20px;
+}
+
+.indentedMore {
+    margin-left: 28px;
 }
