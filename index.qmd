@@ -13,6 +13,11 @@ about:
 toc: false
 ---
 
-I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, data compression, and machine learning. I am pursing doctoral programs with an intended start date of Fall 2025.
+I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, data compression, and machine learning. I am pursing doctoral programs with an intended start date of Fall 2025. To see what I have worked on as an undergraduate, please see the Projects page.
 
 Outside of my research, I enjoy playing the harp and reading.
+
+## Updates
+
+**December 2024**  
+Our paper, "Fast Channel Simulation via Error-Correcting Codes," appeared at NeurIPS 2024.  

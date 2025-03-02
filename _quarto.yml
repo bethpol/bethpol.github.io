@@ -10,6 +10,9 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
+  page-footer:
+    background: light
+    center: "Made with Quarto"
 
 format:
   html:
@@ -19,8 +22,7 @@ format:
     css: styles.css
     toc: true
 
-body-footer: | 
-  Made with Quarto
+
 
 
 
