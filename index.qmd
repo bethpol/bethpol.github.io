@@ -1,6 +1,18 @@
 ---
 title: "Elizabeth Polito"
+image: "files/profile_pic.jpg"
+about:
+  template: solana
+  links:
+    - icon: envelope
+      href: mailto:emp234@cornell.edu
+      text: emp234@cornell.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/in/elizabeth-polito
+      text: Linkedin
+toc: false
 ---
 
-I am a senior at Cornell University studying Electrical & Computer Engineering. I am interested in information theory, data compression, and machine learning.
+I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, data compression, and machine learning. I am pursing doctoral programs with an intended start date of Fall 2025.
 
+Outside of my research, I enjoy playing the harp and reading.

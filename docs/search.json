@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Elizabeth Polito",
     "section": "",
-    "text": "I am a senior at Cornell University studying Electrical & Computer Engineering. I am interested in information theory, data compression, and machine learning."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, data compression, and machine learning. I am pursing doctoral programs with an intended start date of Fall 2025.\nOutside of my research, I enjoy playing the harp and reading."
   }
 ]
