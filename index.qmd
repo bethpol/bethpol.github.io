@@ -1,7 +1,6 @@
 ---
-title: "portfolio"
+title: "Elizabeth Polito"
 ---
 
-This is a Quarto website.
+I am a senior at Cornell University studying Electrical & Computer Engineering. I am interested in information theory, data compression, and machine learning.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
