@@ -12,7 +12,7 @@ website:
         text: Projects
   page-footer:
     background: light
-    center: "Made with Quarto"
+    center: "E. Polito 2025"
 
 format:
   html:
