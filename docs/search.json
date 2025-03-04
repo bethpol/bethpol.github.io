@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Coming soon!"
+    "text": "Coming soon!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Elizabeth Polito",
     "section": "",
-    "text": "I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, data compression, and machine learning. I am pursing doctoral programs with an intended start date of Fall 2025. To see what I have worked on as an undergraduate, please see the Projects page.\nOutside of my research, I enjoy playing the harp and reading."
+    "text": "I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, data compression, and communication systems. I am pursing doctoral programs with an intended start date of Fall 2025. To see what I have worked on as an undergraduate, please see the Projects page.\nOutside of my research, I enjoy playing the harp and reading."
   },
   {
     "objectID": "index.html#updates",
@@ -19,5 +19,12 @@
     "title": "Elizabeth Polito",
     "section": "Updates",
     "text": "Updates\nDecember 2024\nOur paper, “Fast Channel Simulation via Error-Correcting Codes,” appeared at NeurIPS 2024."
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Sample Project",
+    "section": "",
+    "text": "Channel simulation research"
   }
 ]
