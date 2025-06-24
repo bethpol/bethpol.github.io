@@ -13,14 +13,16 @@ about:
 toc: false
 ---
 
-I am an incoming Ph.D. student in Electrical Engineering & Computer Science at the University of California, Berkeley. Currently, I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, signal processing, and machine learning. To see what I have worked on as an undergraduate, please see the Projects page.
+I am an incoming Ph.D. student in (EECS at UC Berkeley)[] and a recent graduate in (Electrical & Computer Engineering at Cornell University)[https://www.engineering.cornell.edu/ece/].
+
+Currently, I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, signal processing, and machine learning. To see what I have worked on as an undergraduate, please see the Projects page.
 
 Outside of my research, I enjoy playing the harp and reading.
 
 ## Updates
 
 **May 2025**  
-I graduated from Cornell University Summa Cum Laude with a B.S. in Electrical & Computer Engineering and as the recipient of the [Sibley Prize](https://www.engineering.cornell.edu/ece/major/undergraduate-awards/#:~:text=Sibley%20Prize,average%20over%20all%20four%20years) from the School of ECE. I was also honored as a [Merrill Presidential Scholar](https://scl.cornell.edu/about-scl/awards-funding/merrill-presidential-scholars-program).
+I graduated from Cornell University Summa Cum Laude with a B.S. in ECE and as the recipient of the [Sibley Prize](https://www.engineering.cornell.edu/ece/major/undergraduate-awards/#:~:text=Sibley%20Prize,average%20over%20all%20four%20years) from the School of ECE. I was also honored as a [Merrill Presidential Scholar](https://scl.cornell.edu/about-scl/awards-funding/merrill-presidential-scholars-program).
 
 **December 2024**  
 Our paper, "Fast Channel Simulation via Error-Correcting Codes," appeared at NeurIPS 2024.  
