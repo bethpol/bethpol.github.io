@@ -13,7 +13,7 @@ about:
 toc: false
 ---
 
-I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, data compression, and communication systems. I am pursing doctoral programs with an intended start date of Fall 2025. To see what I have worked on as an undergraduate, please see the Projects page.
+I am an incoming Ph.D. student in Electrical Engineering & Computer Science at the University of California, Berkeley for fall 2025. Currently, I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, signal processing, and machine learning. To see what I have worked on as an undergraduate, please see the Projects page.
 
 Outside of my research, I enjoy playing the harp and reading.
 
