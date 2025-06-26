@@ -5,19 +5,18 @@ about:
   template: solana
   links:
     - icon: envelope
-      href: mailto:emp234@cornell.edu
-      text: emp234@cornell.edu
+      href: mailto:elizabeth.polito@berkeley.edu
+      text: elizabeth.polito@berkeley.edu
     - icon: linkedin
       href: https://www.linkedin.com/in/elizabeth-polito
       text: Linkedin
 toc: false
 ---
 
-I am an incoming Ph.D. student in (EECS at UC Berkeley)[] and a recent graduate in (Electrical & Computer Engineering at Cornell University)[https://www.engineering.cornell.edu/ece/].
+I am an incoming Ph.D. student in EECS at UC Berkeley and a recent graduate of Cornell University with a B.S. in Electrical & Computer Engineering.
 
-Currently, I am a senior studying Electrical & Computer Engineering at Cornell University in Ithaca, NY. My research interests include information theory, signal processing, and machine learning. To see what I have worked on as an undergraduate, please see the Projects page.
+My research interests lie in information theory and signal processing. At Cornell, I was fortunate to be advised by Professor Aaron Wagner, where I contributed to the development of algorithms for channel simulation, form of lossy compression with applications in multimedia and model compression. At Berkeley, I will continue to pursue these interests as a member of [BLISS](https://bliss.eecs.berkeley.edu/).
 
-Outside of my research, I enjoy playing the harp and reading.
 
 ## Updates
 
