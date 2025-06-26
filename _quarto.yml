@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+      - elizabeth_polito_cv.pdf
 
 website:
   title: "Elizabeth Polito"
