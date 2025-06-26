@@ -10,7 +10,7 @@ website:
         text: Home
       - href: projects.qmd
         text: Projects
-      - href: files/elizabeth_polito_cv.pdf
+      - href: elizabeth_polito_cv.pdf
         text: CV
   page-footer:
     background: light
