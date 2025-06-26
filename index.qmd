@@ -15,7 +15,7 @@ toc: false
 
 I am an incoming Ph.D. student in EECS at UC Berkeley and a recent graduate of Cornell University with a B.S. in Electrical & Computer Engineering.
 
-My research interests lie in information theory and signal processing. At Cornell, I was fortunate to be advised by Professor Aaron Wagner, where I contributed to the development of algorithms for channel simulation, form of lossy compression with applications in multimedia and model compression. At Berkeley, I will continue to pursue these interests as a member of [BLISS](https://bliss.eecs.berkeley.edu/).
+My research interests lie in information theory and signal processing. At Cornell, I was fortunate to be advised by Professor Aaron Wagner. I contributed to the development of efficient algorithms for channel simulation, a form of lossy compression with applications in multimedia and model compression. At Berkeley, I will continue to pursue these interests as a member of [BLISS](https://bliss.eecs.berkeley.edu/).
 
 
 ## Updates

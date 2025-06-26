@@ -1,5 +1,5 @@
 ---
-title: "Sample Project"
+title: "Channel Simulation"
 ---
 
-Channel simulation research
+During
