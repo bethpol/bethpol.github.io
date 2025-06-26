@@ -2,4 +2,4 @@
 title: "Channel Simulation"
 ---
 
-During
+Channel simulation is a 
