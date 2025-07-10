@@ -1,5 +1,0 @@
----
-title: "Channel Simulation"
----
-
-Channel simulation is a 
