@@ -1,1 +1,3 @@
-This is a personal website powered by Quarto hosted on Github pages.
+# Elizabeth Polito's Portfolio
+
+This is a personal website created with Quarto.
