@@ -5,23 +5,27 @@ about:
   template: solana
   links:
     - icon: envelope
-      href: mailto:elizabeth.polito@berkeley.edu
-      text: elizabeth.polito@berkeley.edu
+      href: mailto:epolito@berkeley.edu
+      text: epolito@berkeley.edu
     - icon: linkedin
       href: https://www.linkedin.com/in/elizabeth-polito
-      text: Linkedin
+      text: LinkedIn
+    - icon: github
+      href: https://github.com/bethpol
+      text: GitHub
+    - icon: ai-google-scholar
+      href: https://scholar.google.com/citations?user=R67cZAMAAAAJ&hl=en
+      text: Google Scholar
 toc: false
 ---
 
-I am an incoming Ph.D. student in EECS at UC Berkeley and a recent graduate of Cornell University with a B.S. in Electrical & Computer Engineering.
+I am a first-year Ph.D. student in EECS at UC Berkeley. My research interests include:
 
-My research interests lie in information theory and signal processing. At Cornell, I was fortunate to be advised by Professor Aaron Wagner. I contributed to the development of efficient algorithms for channel simulation, a form of lossy compression with applications in multimedia and model compression. At Berkeley, I will continue to pursue these interests as a member of [BLISS](https://bliss.eecs.berkeley.edu/).
+- Data Compression & Rate-Distortion Theory
+- Information Theory
+- Image/Video Coding
+- Watermarking for generative models
+- Efficient learning algorithms that leverage coding/communications techniques
 
+I obtained my B.S. in Electrical & Computer Engineering from Cornell University in 2025.
 
-## Updates
-
-**May 2025**  
-I graduated from Cornell University Summa Cum Laude with a B.S. in ECE and as the recipient of the [Sibley Prize](https://www.engineering.cornell.edu/ece/major/undergraduate-awards/#:~:text=Sibley%20Prize,average%20over%20all%20four%20years) from the School of ECE. I was also honored as a [Merrill Presidential Scholar](https://scl.cornell.edu/about-scl/awards-funding/merrill-presidential-scholars-program).
-
-**December 2024**  
-Our paper, "Fast Channel Simulation via Error-Correcting Codes," appeared at NeurIPS 2024.  

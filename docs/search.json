@@ -4,13 +4,6 @@
     "href": "index.html",
     "title": "Elizabeth Polito",
     "section": "",
-    "text": "I am an incoming Ph.D. student in EECS at UC Berkeley and a recent graduate of Cornell University with a B.S. in Electrical & Computer Engineering.\nMy research interests lie in information theory and signal processing. At Cornell, I was fortunate to be advised by Professor Aaron Wagner. I contributed to the development of efficient algorithms for channel simulation, a form of lossy compression with applications in multimedia and model compression. At Berkeley, I will continue to pursue these interests as a member of BLISS."
-  },
-  {
-    "objectID": "index.html#updates",
-    "href": "index.html#updates",
-    "title": "Elizabeth Polito",
-    "section": "Updates",
-    "text": "Updates\nMay 2025\nI graduated from Cornell University Summa Cum Laude with a B.S. in ECE and as the recipient of the Sibley Prize from the School of ECE. I was also honored as a Merrill Presidential Scholar.\nDecember 2024\nOur paper, “Fast Channel Simulation via Error-Correcting Codes,” appeared at NeurIPS 2024."
+    "text": "I am a first-year Ph.D. student in EECS at UC Berkeley. My research interests include:\n\nData Compression & Rate-Distortion Theory\nInformation Theory\nImage/Video Coding\nWatermarking for generative models\nEfficient learning algorithms that leverage coding/communications techniques\n\nI obtained my B.S. in Electrical & Computer Engineering from Cornell University in 2025."
   }
 ]
