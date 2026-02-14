@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: files/elizabeth_polito_cv.pdf
-        text: CV
   page-footer:
     background: light
     center: "E. Polito 2025"
