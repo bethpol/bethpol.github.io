@@ -7,9 +7,7 @@ project:
 website:
   title: "Elizabeth Polito"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    left: []
   page-footer:
     background: light
     center: "E. Polito 2025"
@@ -21,6 +19,3 @@ format:
       - custom.scss
     css: styles.css
     toc: true
-
-
-
