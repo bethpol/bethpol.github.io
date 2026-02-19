@@ -25,3 +25,8 @@ I am especially interested in neural data compression, diffusion models, waterma
 
 I obtained my B.S. in Electrical & Computer Engineering from Cornell University in 2025.
 
+Two fun facts about me:
+
+1. I am a musician! I played for two seasons as principal harpist with Cornell Orchestras and am currently learning piano for fun.
+2. I am a general-class amateur radio operator (callsign: KE2ASU).
+
