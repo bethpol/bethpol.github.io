@@ -19,14 +19,5 @@ about:
 toc: false
 ---
 
-I am a first-year Ph.D. student in EECS at UC Berkeley. With a background in information theory 
-and signal processing, my current research focuses on theory-driven methods for generative models. 
-I am especially interested in neural data compression, diffusion models, watermarking, and explainable AI.
-
-I obtained my B.S. in Electrical & Computer Engineering from Cornell University in 2025.
-
-Two fun facts about me:
-
-1. I am a musician! I played for two seasons as principal harpist with Cornell Orchestras and am currently learning piano for fun.
-2. I am a general-class amateur radio operator (callsign: KE2ASU).
+I am a Ph.D. student at UC Berkeley interested in research at the intersection of machine learning, signal processing, and information theory. I graduated from Cornell University in May 2025 with a B.S. in Electrical & Computer Engineering. My research is supported by an NSF Graduate Research Fellowship and the Berkeley Fellowship.
 
